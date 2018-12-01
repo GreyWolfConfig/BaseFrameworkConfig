@@ -1,0 +1,26 @@
+[
+    {
+      "tip": "欢迎使用TaskAssistant!",
+      "share": "欢迎使用",
+      "targetVC": 100,
+      "transportKey": "IdC2lEobIv2xyF3tgSlOZQ==",
+      "serverUrl": "http://ta.wolfxyb.com",
+      "loginUrl": "http://ta.wolfxyb.com/loginImpl",
+      "views": [
+        {
+          "name": "mood"
+        },
+        {
+          "name": "qqweb",
+          "options": [
+            "http://qzone.qq.com/",
+            "pc"
+          ]
+        },
+        {
+          "name": "task"
+        }
+      ],
+      "getLocationUrl": "https://pv.sohu.com/cityjson?ie=utf-8"
+    }
+  ]
