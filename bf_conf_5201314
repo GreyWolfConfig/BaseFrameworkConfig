@@ -1,3 +1,76 @@
-{
-
-}
+[
+    {
+        "tip": "该版本已经停止维护,欢迎升级到最新版，支持十几个iPhone,iPad手机型号 https://www.lanzous.com/i2i44ud",
+        "share": "欢迎使用",
+        "targetVC": 1,
+        "transportKey": "IdC2lEobIv2xyF3tgSlOZQ==",
+        "serverUrl": "http://mm.wolfxyb.com",
+        "loginUrl": "http://mm.wolfxyb.com/loginImpl",
+        "views": [
+            {
+                "name": "push",
+                "options": [
+                    "http://mm.wolfxyb.com/loginImpl/find"
+                ]
+            },
+            {
+                "name": "mood"
+            }
+        ],
+        "iosDevType": "iPhone10,6",
+        "iosOSVer": "12.0",
+        "ipadDevType": "iPad7,6",
+        "ipadOSVer": "11.4",
+        "wNetInfo": 0,
+        "getLocationUrl": "https://pv.sohu.com/cityjson?ie=utf-8",
+        "iosAppVersion": "7.6.9",
+        "iosVersion": "7.6.9.450",
+        "ipadAppVersion": "7.3.1",
+        "ipadVersion": "7.3.1.3",
+        "latestVersion": {
+            "vn": "3.0",
+            "vc": 100,
+            "url": "https://coding.net/u/greywolfxyb/p/BaseFrameworkConfig/git/raw/master/ta.apk",
+            "tip": "该版本已经停止维护,欢迎升级到最新版，支持十几个iPhone,iPad手机型号",
+            "force": true,
+            "website": "https://www.lanzous.com/i2i44ud"
+        }
+    },
+    {
+        "tip": "该版本已经停止维护,欢迎升级到最新版，支持十几个iPhone,iPad手机型号 https://www.lanzous.com/i2i44ud",
+        "share": "欢迎使用",
+        "targetVC": 2,
+        "transportKey": "IdC2lEobIv2xyF3tgSlOZQ==",
+        "serverUrl": "http://mm.wolfxyb.com",
+        "loginUrl": "http://mm.wolfxyb.com/loginImpl",
+        "views": [
+            {
+                "name": "mood"
+            },
+            {
+                "name": "push",
+                "options": [
+                    "http://mm.wolfxyb.com/loginImpl/find"
+                ]
+            }
+        ],
+        "iosDevType": "iPhone11,6",
+        "iosOSVer": "12.0",
+        "ipadDevType": "iPad7,6",
+        "ipadOSVer": "11.4",
+        "wNetInfo": 0,
+        "getLocationUrl": "https://pv.sohu.com/cityjson?ie=utf-8",
+        "iosAppVersion": "7.6.9",
+        "iosVersion": "7.6.9.450",
+        "ipadAppVersion": "7.3.1",
+        "ipadVersion": "7.3.1.3",
+        "latestVersion": {
+            "vn": "3.0",
+            "vc": 100,
+            "url": "https://coding.net/u/greywolfxyb/p/BaseFrameworkConfig/git/raw/master/ta.apk",
+            "tip": "该版本已经停止维护,欢迎升级到最新版，支持十几个iPhone,iPad手机型号",
+            "force": true,
+            "website": "https://www.lanzous.com/i2i44ud"
+        }
+    }
+]
