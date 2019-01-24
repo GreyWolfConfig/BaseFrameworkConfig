@@ -1,26 +1,34 @@
 [
     {
-      "tip": "欢迎使用TaskAssistant!",
-      "share": "欢迎使用",
-      "targetVC": 100,
-      "transportKey": "IdC2lEobIv2xyF3tgSlOZQ==",
-      "serverUrl": "http://ta.wolfxyb.com",
-      "loginUrl": "http://ta.wolfxyb.com/loginImpl",
-      "views": [
-        {
-          "name": "mood"
-        },
-        {
-          "name": "qqweb",
-          "options": [
-            "http://qzone.qq.com/",
-            "pc"
-          ]
-        },
-        {
-          "name": "task"
+        "tip": "欢迎使用TaskAssistant!",
+        "share": "欢迎使用",
+        "targetVC": 200,
+        "transportKey": "IdC2lEobIv2xyF3tgSlOZQ==",
+        "serverUrl": "http://ta.wolfxyb.com",
+        "loginUrl": "http://ta.wolfxyb.com/loginImpl",
+        "views": [
+            {
+                "name": "mood"
+            },
+            {
+                "name": "qqweb",
+                "options": [
+                    "http://qzone.qq.com/",
+                    "pc"
+                ]
+            },
+            {
+                "name": "task"
+            }
+        ],
+        "getLocationUrl": "https://pv.sohu.com/cityjson?ie=utf-8",
+        "latestVersion": {
+            "vn": "2.0",
+            "vc": 200,
+            "url": "https://coding.net/u/greywolfxyb/p/BaseFrameworkConfig/git/raw/master/ta.apk",
+            "tip": "修复重大bug,旧版本停止维护,请更新到最新版",
+            "force": true,
+            "website": "https://pan.baidu.com/s/1Vb1svj1FHYeY60IZS6m2jA"
         }
-      ],
-      "getLocationUrl": "https://pv.sohu.com/cityjson?ie=utf-8"
     }
-  ]
+]
