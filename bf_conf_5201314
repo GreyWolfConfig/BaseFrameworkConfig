@@ -28,12 +28,12 @@
         "ipadAppVersion": "7.3.1",
         "ipadVersion": "7.3.1.3",
         "latestVersion": {
-            "vn": "3.0",
-            "vc": 100,
-            "url": "https://coding.net/u/greywolfxyb/p/BaseFrameworkConfig/git/raw/master/ta.apk",
-            "tip": "该版本已经停止维护,欢迎升级到最新版，支持十几个iPhone,iPad手机型号",
+            "vn": "3.01",
+            "vc": 1001,
+            "url": "http://52bestapp.com/",
+            "tip": "感恩有你",
             "force": true,
-            "website": "https://www.lanzous.com/i2i44ud"
+            "website": "http://52bestapp.com/"
         }
     },
     {
@@ -65,12 +65,12 @@
         "ipadAppVersion": "7.3.1",
         "ipadVersion": "7.3.1.3",
         "latestVersion": {
-            "vn": "3.0",
-            "vc": 100,
-            "url": "https://coding.net/u/greywolfxyb/p/BaseFrameworkConfig/git/raw/master/ta.apk",
-            "tip": "该版本已经停止维护,欢迎升级到最新版，支持十几个iPhone,iPad手机型号",
+            "vn": "3.01",
+            "vc": 1001,
+            "url": "http://52bestapp.com/",
+            "tip": "感恩有你",
             "force": true,
-            "website": "https://www.lanzous.com/i2i44ud"
+            "website": "http://52bestapp.com/"
         }
     }
 ]
