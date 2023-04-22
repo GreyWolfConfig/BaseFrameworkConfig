@@ -30,7 +30,7 @@
             "vc": 210,
             "url": "http://rocket.52bestapp.cn/static/TaskAssistant3.5.apk",
             "tip": "修复登录失败问题\n请点击<官网更新>",
-            "force": false,
+            "force": true,
             "website": "https://wwi.lanzoui.com/b0069hzfi"
         }
     },
