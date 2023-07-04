@@ -26,8 +26,8 @@
         ],
         "getLocationUrl": "http://myip.ipip.net/",
         "latestVersion": {
-            "vn": "3.6",
-            "vc": 211,
+            "vn": "3.7",
+            "vc": 212,
             "url": "http://rocket.52bestapp.cn/static/TaskAssistant3.6.apk",
             "tip": "修复登录失败问题\n请点击<官网更新>",
             "force": false,
